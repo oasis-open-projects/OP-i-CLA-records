@@ -19,3 +19,7 @@ Therefore, I am storing the extracted copies of the signatures with the original
 3) oca-op-icla-07-13-2021.csv - CLA signatures for Open Cybersecurity Alliance Open Project. 76 signatures
 
 4) eea-oasis-icla-07-13-2021.csv - CLA signatures for EEA Community Projects Managed Open Project. 3 signatures
+
+In addition, on July 15, 2021, I found that the Drupal records imported when we configured the CLA Bot for the Open Repository program (February 25, 2021) were incomplete. They only list the Github ID, the copy of the i-cla effective and the date of loading. I pulled drupal-icla-export-07-15-1951.csv and loaded it here to maintain a copy of the historical signatures. If we need to trace a signature backwards, we have the Github ID in both sets of files so that we can cross-reference to the original signature. 
+
+5) drupal-icla-export-07-15-1951.csv - CLA signatures from the original Drupal i-cla application. 131 signatures.
